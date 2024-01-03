@@ -1,0 +1,13 @@
+.A{
+    background-color: tomato;
+    border: 10px solid green;
+    border-radius: 5px 40px ;
+}
+.B{
+    background-color: crimson;
+}
+.C{
+    background-color: crimson;
+    border:10px solid green;
+    border-radius: 5px 40px;
+}
